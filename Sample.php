@@ -1,8 +1,9 @@
 <?php
+//CircleCI
 class Sample
 {
     public function helloWorld()
     {
-        return 'bye!';
+        return 'hello world!';
     }
 }
